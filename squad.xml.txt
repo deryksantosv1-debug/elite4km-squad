@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<squad nick="4KM">
+    <name>Elite 4KM</name>
+    <email>deryksantosv1@gmail.com</email>
+    <web></web>
+    <picture>logo.paa</picture>
+    <title>Só quem tem tiro de 4KM</title>
+
+    <member id="76561198064192529">
+        <name>Deryk Sneider</name>
+        <nick>Deryk Sneider</nick>
+    </member>
+</squad>
