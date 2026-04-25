@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <squad nick="4KM">
-    <name>Elite 4KM</name>
+    <name>Sniper Elite Squad</name>
     <email>deryksantosv1@gmail.com</email>
-    <web></web>
-    <picture>logo.paa</picture>
-    <title>Só quem tem tiro de 4KM</title>
+    <web>N/A</web>
+    <picture>https://raw.githubusercontent.com/deryksantosv1-debug/elite4km-squad/main/logo.paa</picture>
+    <title>Apenas quem tem registo de tiro acima de 4KM</title>
 
     <member id="76561198064192529">
         <name>Deryk Sneider</name>
